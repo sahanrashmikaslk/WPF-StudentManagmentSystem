@@ -1,0 +1,413 @@
+﻿<Window x:Class="Lelwala_L.G.S.R._4047.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lelwala_L.G.S.R._4047"
+        xmlns:iconPack="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        mc:Ignorable="d"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        
+        Background="Transparent"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        MouseDown="Window_MouseDown"
+        Title="MainWindow" Height="700" Width="1000"
+        MinHeight="700" MinWidth="1000"
+        FontFamily="/Fonts/Geologica-VariableFont_CRSV,SHRP,slnt,wght.ttf">
+    <Window.DataContext>
+        <local:MainWindowVM/>
+    </Window.DataContext>
+    <Window.Resources>
+        <ControlTemplate x:Key="sideButton" TargetType="Button">
+            <Border x:Name="sideButtonBorder" Height="40" Width="130" CornerRadius="20">
+                <Border.Background>
+                    <SolidColorBrush Color="#0096c7"/>
+                </Border.Background>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <iconPack:PackIconMaterial Kind="{TemplateBinding Property=Tag}" VerticalAlignment="Center" HorizontalAlignment="Center"
+                            Foreground="#ffffff"/>
+                    <TextBlock Margin="10 0 0 0" Text="{TemplateBinding Content}" Foreground="#ffffff" FontWeight="SemiBold" FontSize="14" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                </StackPanel>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="sideButtonBorder" Property="Background" Value="#90e0ef"/>
+                    <Setter TargetName="sideButtonBorder" Property="Width" Value="135"/>
+                    <Setter TargetName="sideButtonBorder" Property="Height" Value="42"/>
+                    <Setter TargetName="sideButtonBorder" Property="CornerRadius" Value="21"/>
+                </Trigger>
+                <Trigger Property="IsMouseCaptured" Value="True">
+                    <Setter TargetName="sideButtonBorder" Property="Background" Value="#00b4d8"/>
+                    <Setter TargetName="sideButtonBorder" Property="Width" Value="130"/>
+                    <Setter TargetName="sideButtonBorder" Property="Height" Value="40"/>
+                    <Setter TargetName="sideButtonBorder" Property="CornerRadius" Value="20"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+        <ControlTemplate x:Key="upperButton" TargetType="Button">
+            <Border x:Name="upperButtonBorder" Width="30" Height="22" CornerRadius="4" Background="#0096c7">
+                <iconPack:PackIconMaterial Kind="{TemplateBinding Tag}" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#ffffff" Width="10"/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="upperButtonBorder" Property="Background" Value="#90e0ef"/>
+                </Trigger>
+                <Trigger Property="IsMouseCaptured" Value="True">
+                    <Setter TargetName="upperButtonBorder" Property="Background" Value="#00b4d8"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+    <Border CornerRadius="15" Background="#ffffff" UseLayoutRounding="True">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.05*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Border Grid.Row="1" Grid.Column="1" 
+BorderThickness="0" Margin="0 0 10 10" Height="Auto" Width="Auto" CornerRadius="20">
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0.5, 0" EndPoint="0.5, 1">
+                        <GradientStop Color="#82CCDE" Offset="0.0"/>
+                        <GradientStop Color="#caf0f8" Offset="1.0"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Border.Effect>
+                    <DropShadowEffect Opacity="0.1"/>
+                </Border.Effect>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="80"/>
+                        <RowDefinition Height="40"/>
+
+                        <RowDefinition Height="21*"/>
+                        <RowDefinition Height="158*"/>
+                    </Grid.RowDefinitions>
+
+                    <Label Grid.Row="0" Content="{Binding Greeting}" Foreground="#0077b6" FontSize="25" FontWeight="Bold" Margin="20 20 0 0"/>
+                    <Grid Grid.Row="1" >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+
+                        </Grid.ColumnDefinitions>
+
+                        <Border Grid.Column="0" 
+                            Margin="20,0,0,0"
+                            Background="White" Height="20" Width="157" HorizontalAlignment="Left" VerticalAlignment="Center" CornerRadius="10">
+                            <TextBlock Background="White" 
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   FontSize="16"
+                                   Foreground="#0077b6"  Margin="11,0,0,0">
+                            Student Dashboard
+                            </TextBlock>
+
+
+
+
+                        </Border>
+
+                        <Border Grid.Column="1" 
+                            Margin="200,0,0,0"
+                            Background="White" Height="20" Width="157" HorizontalAlignment="Left" VerticalAlignment="Center" CornerRadius="10">
+                            <StackPanel Orientation="Horizontal">
+                                <iconPack:PackIconMaterial Foreground="#0077b6" Margin="10,2,0,0" Kind="AccountSearchOutline"/>
+                                <TextBox Background="White" 
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Center"
+                                   FontSize="16"
+                                   Foreground="#0077b6"  Margin="11,0,0,0">
+                                    Search
+                                </TextBox>
+                            </StackPanel>
+                            
+                            
+
+
+
+                        </Border>
+
+                    </Grid>
+                  
+                    <ListView VerticalAlignment="Top" Grid.Row="2" ItemsSource="{Binding Students}" SelectedItem="{Binding SelectedStudent}" SelectionMode="Single" Background="Transparent" BorderBrush="Transparent" Width="Auto" SelectionChanged="ListView_SelectionChanged" Grid.RowSpan="2">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal" Margin="50 15 0 10" VerticalAlignment="Top">
+
+                                    <Border CornerRadius="25" Width="100" Height="100">
+
+                                        <Border.Background>
+                                            <SolidColorBrush Color="#349DBE"/>
+                                        </Border.Background>
+                                        <Border.Effect>
+                                            <DropShadowEffect Opacity="0.3"/>
+                                        </Border.Effect>
+                                        <StackPanel>
+                                            <Border CornerRadius="50">
+                                                <Image Source="{Binding ProfilePictureURL}" />
+
+                                            </Border>
+                                            <Border 
+                            Margin="0 -20 0 0"
+                            Background="#82CCDE" Height="20" Width="90"  HorizontalAlignment="Center" VerticalAlignment="Center" CornerRadius="9" >
+                                                <TextBlock Background="#82CCDE" 
+                                   HorizontalAlignment="Center"
+                                   VerticalAlignment="Center"
+                                   Foreground="White"  FontSize="14"
+                                                           Text="{Binding FirstName}" TextAlignment="Center" RenderTransformOrigin="0.032,0.451" Width="70"/>
+                                            </Border>
+                                        </StackPanel>
+
+                                    </Border>
+
+                                    <Border CornerRadius="15" Margin="50 0 0 0" Width="500">
+                                        <Border.Background>
+                                            <SolidColorBrush Color="#BDE4ED"/>
+                                        </Border.Background>
+                                        <Border.Effect>
+                                            <DropShadowEffect Opacity="0.1"/>
+                                        </Border.Effect>
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="250"/>
+                                                <ColumnDefinition Width="250"/>
+                                            </Grid.ColumnDefinitions>
+                                            <StackPanel Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                                <StackPanel Orientation="Horizontal">
+                                                    <Border CornerRadius="9" Height="19" Width="39">
+                                                        <Border.Effect>
+                                                            <DropShadowEffect Opacity="0.1"/>
+                                                        </Border.Effect>
+                                                        <Border.Background>
+                                                            <SolidColorBrush Color="#349DBE"/>
+                                                        </Border.Background>
+                                                        <TextBlock Text="Name" Foreground="#ffffff" 
+                                                                   HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                    <Border CornerRadius="12" Margin="10 0 0 0">
+                                                        <Border.Effect>
+                                                            <DropShadowEffect Opacity="0.1"/>
+                                                        </Border.Effect>
+                                                        <Border.Background>
+                                                            <SolidColorBrush Color="#349DBE"/>
+                                                        </Border.Background>
+                                                        <StackPanel>
+                                                            <StackPanel Orientation="Horizontal">
+                                                                <TextBlock Text="  (First Name)" Foreground="#ffffff" Width="77" Height="15" TextAlignment="Center" VerticalAlignment="Center"/>
+                                                                <TextBlock Text="{Binding FirstName}" Foreground="#ffffff" Width="41" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                                            </StackPanel>
+                                                            <StackPanel Orientation="Horizontal">
+                                                                <TextBlock Text="  (Last Name)" Foreground="#ffffff" Width="77" Height="18" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                                                <TextBlock Text="{Binding LastName}" Foreground="#ffffff"/>
+                                                            </StackPanel>
+                                                        </StackPanel>
+                                                    </Border>
+                                                </StackPanel>
+                                                <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                                                    <Border CornerRadius="9">
+                                                        <Border.Background>
+                                                            <SolidColorBrush Color="#349DBE"/>
+                                                        </Border.Background>
+                                                        <Border.Effect>
+                                                            <DropShadowEffect Opacity="0.1"/>
+                                                        </Border.Effect>
+                                                        <TextBlock Text="Date of Birth" Foreground="#ffffff" HorizontalAlignment="Center" VerticalAlignment="Center" Width="71" Height="19" TextAlignment="Center" RenderTransformOrigin="0.521,0.582"/>
+                                                    </Border>
+                                                    <Border CornerRadius="9" Margin="10 0 0 0" Height="19" Width="72">
+                                                        <Border.Effect>
+                                                            <DropShadowEffect Opacity="0.1"/>
+                                                        </Border.Effect>
+                                                        <Border.Background>
+                                                            <SolidColorBrush Color="#349DBE"/>
+                                                        </Border.Background>
+                                                        <TextBlock Text="{Binding Birthday}" Foreground="#ffffff" HorizontalAlignment="Center" VerticalAlignment="Center" Width="51"/>
+                                                    </Border>
+                                                </StackPanel>
+                                                <StackPanel Orientation="Horizontal" Margin="0 10 0 0">
+                                                    <Border CornerRadius="9">
+                                                        <Border.Background>
+                                                            <SolidColorBrush Color="#349DBE"/>
+                                                        </Border.Background>
+                                                        <Border.Effect>
+                                                            <DropShadowEffect Opacity="0.1"/>
+                                                        </Border.Effect>
+                                                        <TextBlock Text="City" Height="19" Foreground="#ffffff" Width="31" HorizontalAlignment="Center" VerticalAlignment="Center" TextAlignment="Center"/>
+                                                    </Border>
+                                                    <Border CornerRadius="9" Margin="10 0 0 0">
+                                                        <Border.Effect>
+                                                            <DropShadowEffect Opacity="0.1"/>
+                                                        </Border.Effect>
+                                                        <Border.Background>
+                                                            <SolidColorBrush Color="#349DBE"/>
+                                                        </Border.Background>
+                                                        <TextBlock Text="{Binding City}" Foreground="#ffffff" Width="60" VerticalAlignment="Center" HorizontalAlignment="Center" TextAlignment="Center"/>
+                                                    </Border>
+
+                                                </StackPanel>
+
+                                            </StackPanel>
+
+                                            <StackPanel Grid.Column="1" Orientation="Horizontal"
+                                                        VerticalAlignment="Center" 
+                                                        HorizontalAlignment="Center">
+                                                <StackPanel VerticalAlignment="Center" 
+                                                            HorizontalAlignment="Center">
+                                                    <Border CornerRadius="9">
+                                                        <Border.Background>
+                                                            <SolidColorBrush Color="#349DBE"/>
+                                                        </Border.Background>
+                                                        <Border.Effect>
+                                                        <DropShadowEffect Opacity="0.1"/>
+                                                        </Border.Effect>
+                                                        <TextBlock Text="Performance" Foreground="#ffffff" TextAlignment="Center" HorizontalAlignment="Center" Height="19" Width="85" VerticalAlignment="Top" RenderTransformOrigin="0.52,1.588"/>
+                                                    </Border>
+                                                </StackPanel>
+                                                <Border CornerRadius="30" Margin="10 0 0 0" Width="90" Height="90">
+                                                    <Border.Background>
+                                                        <SolidColorBrush Color="#349DBE"/>
+                                                    </Border.Background>
+                                                    <Border.Effect>
+                                                        <DropShadowEffect Opacity="0.1"/>
+                                                    </Border.Effect>
+                                                    <StackPanel Orientation="Vertical">
+                                                        <lvc:PieChart Name="Charts" Series="{Binding Series}" 
+                                                                        InnerRadius="14" Margin="0 10 0 0"
+                                                                      Height="15" Width="15"
+                                                         Hoverable="False" ToolTip="{x:Null}" DataTooltip="{x:Null}" Loaded="Charts_Loaded">
+                                                        </lvc:PieChart>
+                                                        <TextBlock Text="{Binding GPA}" Foreground="White" TextAlignment="Center" Margin="0 0 0 0"></TextBlock>
+                                                    </StackPanel>
+                                                </Border>
+                                            </StackPanel>
+                                        </Grid>
+                                    </Border>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                </Grid>
+            </Border>
+
+            <Grid Grid.Row="1" Grid.Column="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="3*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="55"/>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition Height="35"/>
+
+                        <RowDefinition Height="60"/>
+                        <RowDefinition Height="60"/>
+                        <RowDefinition Height="60"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Border Grid.Row="0" CornerRadius="25" VerticalAlignment="Top">
+                        <Border.Background>
+                            <SolidColorBrush Color="#ffffff"/>
+                        </Border.Background>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="45"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Image Grid.Column="0" Source="Icons/Ruhuna.png" Height="50" Width="40" HorizontalAlignment="Right"/>
+                            <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left">
+                                <Label Content="Faculty of Engineering" Margin="0 5 0 -5" FontSize="14" Foreground="#349DBE" FontWeight="SemiBold"/>
+                                <Label Content="University of Ruhuna" FontSize="12" Foreground="#5AB5D2"/>
+
+                            </StackPanel>
+
+                        </Grid>
+                    </Border>
+                    <Border Grid.Row="1" Margin="0 0 0 0">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            <Label Grid.Column="0" Content="S" Foreground="#349DBE"  FontSize="18" Margin="13 2 -5 -20"/>
+                            <Label Grid.Column="1" Content="tudent " Foreground="#349DBE" FontSize="11" Margin="-5 8 -5 0"/>
+                            <Label Grid.Column="2" Content="M" Foreground="#349DBE" FontSize="18" Margin="-2 2 -5 -20"/>
+                            <Label Grid.Column="3" Content="anagement" Foreground="#349DBE" FontSize="11" Margin="-5 8 -4 0"/>
+                            <Label Grid.Column="4" Content="S" Foreground="#349DBE" FontSize="18" Margin="0 2 -5 -20"/>
+                            <Label Grid.Column="5" Content="ystem" Foreground="#349DBE" FontSize="11" Margin="-5 8 0 0"/>
+
+
+                        </Grid>
+                    </Border>
+                    <Button Grid.Row="3" Content="Add New" VerticalAlignment="Center" HorizontalAlignment="Center" Template="{StaticResource sideButton}"
+                            Tag="{x:Static iconPack:PackIconMaterialKind.Plus}" Command="{Binding AddStudentCommand}"/>
+                    <Button Grid.Row="4" Content="Edit" VerticalAlignment="Center" HorizontalAlignment="Center"
+                            Template="{StaticResource sideButton}" Tag="{x:Static iconPack:PackIconMaterialKind.AccountEdit}" Command="{Binding EditStudentCommand}"/>
+                    <Button Grid.Row="5" Content="Delete" VerticalAlignment="Center" HorizontalAlignment="Center" Template="{StaticResource sideButton}"
+                            Tag="{x:Static iconPack:PackIconMaterialKind.Delete}"/>
+                </Grid>
+
+                <StackPanel Grid.Row="1">
+                    <StackPanel Orientation="Horizontal" Height="50" HorizontalAlignment="Center">
+                        <Ellipse Width="50" Height="50" Stroke="#0096c7" StrokeThickness="5">
+                            <Ellipse.Fill>
+                                <ImageBrush ImageSource="Icons/Stephen.jpg"/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                        <StackPanel>
+                            <Label Content="{Binding LoginName}" FontSize="16" Foreground="#0096c7" FontWeight="SemiBold" Margin="6 0 0 0"/>
+                            <Label Content="{Binding LoginOccupation}" FontSize="14" Foreground="#00b4d8" Margin="6 -5 0 0"/>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <Button Content="Logout" Margin="0 25 0 0" Click="Logout_Clicked">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border x:Name="logoutButtonBorder" Height="40" Width="130" CornerRadius="20">
+                                    <Border.Background>
+                                        <SolidColorBrush Color="#82CCDE"/>
+                                    </Border.Background>
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                        <iconPack:PackIconMaterial Kind="ExitToApp" VerticalAlignment="Center" HorizontalAlignment="Center"
+                            Foreground="#ffffff"/>
+                                        <TextBlock Margin="10 0 0 0" Text="{TemplateBinding Content}" Foreground="#ffffff" FontWeight="SemiBold" FontSize="14" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                    </StackPanel>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="logoutButtonBorder" Property="Background" Value="#0096c7"/>
+                                        <Setter TargetName="logoutButtonBorder" Property="Width" Value="135"/>
+                                        <Setter TargetName="logoutButtonBorder" Property="Height" Value="42"/>
+                                        <Setter TargetName="logoutButtonBorder" Property="CornerRadius" Value="21"/>
+                                    </Trigger>
+                                    <Trigger Property="IsMouseCaptured" Value="True">
+                                        <Setter TargetName="logoutButtonBorder" Property="Background" Value="#00b4d8"/>
+                                        <Setter TargetName="logoutButtonBorder" Property="Width" Value="130"/>
+                                        <Setter TargetName="logoutButtonBorder" Property="Height" Value="40"/>
+                                        <Setter TargetName="logoutButtonBorder" Property="CornerRadius" Value="20"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </StackPanel>
+            </Grid>
+
+            <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Right" Width="85">
+                <Button Template="{StaticResource upperButton}" Tag="{x:Static iconPack:PackIconMaterialKind.WindowMinimize}" Click="Minimize_Clicked"/>
+                <Button Margin="10 0 0 0" Template="{StaticResource upperButton}" Tag="{x:Static iconPack:PackIconMaterialKind.CloseThick}" Click="Logout_Clicked"/>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

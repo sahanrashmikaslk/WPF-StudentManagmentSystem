@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fonts\Geologica-VariableFont_CRSV,SHRP,slnt,wght.ttf" />
+    <None Remove="Fonts\WorkSans-VariableFont_wght.ttf" />
+    <None Remove="Icons\Ariana.jpeg" />
+    <None Remove="Icons\Ruhuna.jpeg" />
+    <None Remove="Icons\Ruhuna.png" />
+    <None Remove="Icons\sahan.jpg" />
+    <None Remove="Icons\Selena.jpg" />
+    <None Remove="Icons\Stephen.jpg" />
+    <None Remove="Icons\Taylor.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.0" />
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
+    <PackageReference Include="MahApps.Metro.IconPacks" Version="4.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Fonts\Geologica-VariableFont_CRSV,SHRP,slnt,wght.ttf">
+      <CopyToOutputDirectory></CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Icons\Ariana.jpeg" />
+    <Resource Include="Icons\Ruhuna.png" />
+    <Resource Include="Icons\Selena.jpg" />
+    <Resource Include="Icons\Stephen.jpg" />
+    <Resource Include="Icons\Taylor.jpg" />
+  </ItemGroup>
+
+</Project>

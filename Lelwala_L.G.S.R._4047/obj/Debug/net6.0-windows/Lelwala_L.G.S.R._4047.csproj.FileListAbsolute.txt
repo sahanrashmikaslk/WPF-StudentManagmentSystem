@@ -1,0 +1,187 @@
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.exe
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.deps.json
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.runtimeconfig.json
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.pdb
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.csproj.AssemblyReference.cache
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047_MarkupCompile.cache
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047_MarkupCompile.lref
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.g.resources
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.AssemblyInfoInputs.cache
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.AssemblyInfo.cs
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.csproj.CoreCompileInputs.cache
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.csproj.CopyComplete
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\refint\Lelwala_L.G.S.R._4047.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.pdb
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.genruntimeconfig.cache
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\ref\Lelwala_L.G.S.R._4047.dll
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Models\AddStudent.g.cs
+C:\Users\sahan\source\repos\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Models\AddStudent.baml
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.exe
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.deps.json
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.runtimeconfig.json
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.pdb
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.csproj.AssemblyReference.cache
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047_MarkupCompile.cache
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047_MarkupCompile.lref
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.g.resources
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.AssemblyInfoInputs.cache
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.AssemblyInfo.cs
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.csproj.CoreCompileInputs.cache
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.csproj.CopyComplete
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\refint\Lelwala_L.G.S.R._4047.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.pdb
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.genruntimeconfig.cache
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\ref\Lelwala_L.G.S.R._4047.dll
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Views\AddStudent.g.cs
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Views\AddStudent.baml
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Views\EditStudent.g.cs
+C:\Users\sahan\Desktop\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Views\EditStudent.baml
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.exe
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.deps.json
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.runtimeconfig.json
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.pdb
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.csproj.AssemblyReference.cache
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Views\AddStudent.g.cs
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Views\EditStudent.g.cs
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\App.g.cs
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047_MarkupCompile.cache
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047_MarkupCompile.lref
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\MainWindow.baml
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Views\AddStudent.baml
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Views\EditStudent.baml
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.g.resources
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.GeneratedMSBuildEditorConfig.editorconfig
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.AssemblyInfoInputs.cache
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.AssemblyInfo.cs
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.csproj.CoreCompileInputs.cache
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.csproj.CopyComplete
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\refint\Lelwala_L.G.S.R._4047.dll
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.pdb
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\Lelwala_L.G.S.R._4047.genruntimeconfig.cache
+D:\sahan\Individual project\Lelwala_L.G.S.R._4047\Lelwala_L.G.S.R._4047\obj\Debug\net6.0-windows\ref\Lelwala_L.G.S.R._4047.dll
