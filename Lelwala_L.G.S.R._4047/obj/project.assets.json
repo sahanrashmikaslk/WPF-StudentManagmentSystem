@@ -1170,23 +1170,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\sahan\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\sahan\\Individual project\\Lelwala_L.G.S.R._4047\\Lelwala_L.G.S.R._4047\\Lelwala_L.G.S.R._4047.csproj",
+      "projectUniqueName": "C:\\Users\\sahan\\Desktop\\induvidual\\EG_2020_4047\\Lelwala_L.G.S.R._4047\\Lelwala_L.G.S.R._4047.csproj",
       "projectName": "Lelwala_L.G.S.R._4047",
-      "projectPath": "D:\\sahan\\Individual project\\Lelwala_L.G.S.R._4047\\Lelwala_L.G.S.R._4047\\Lelwala_L.G.S.R._4047.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\sahan\\Individual project\\Lelwala_L.G.S.R._4047\\Lelwala_L.G.S.R._4047\\obj\\",
+      "projectPath": "C:\\Users\\sahan\\Desktop\\induvidual\\EG_2020_4047\\Lelwala_L.G.S.R._4047\\Lelwala_L.G.S.R._4047.csproj",
+      "packagesPath": "C:\\Users\\sahan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sahan\\Desktop\\induvidual\\EG_2020_4047\\Lelwala_L.G.S.R._4047\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sahan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1246,7 +1246,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   },

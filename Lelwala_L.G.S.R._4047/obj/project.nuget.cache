@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PW8e4pdR0haCPiCCh/uIfTlAo3osCL4Z8LsV6wV2Z3uMeQ3Ek1Fp+wtKZEkwEvb0OmOVGd05GtElKVvZfQVHPQ==",
+  "dgSpecHash": "sjUxxd5hPblOjJVEF75j5nMuM7kHCUYK1MaI972bGwbXHawY/F17RvdXiMSk8Bz7+StovfhyETlqJAopnLVdSw==",
   "success": true,
-  "projectFilePath": "D:\\sahan\\Individual project\\Lelwala_L.G.S.R._4047\\Lelwala_L.G.S.R._4047\\Lelwala_L.G.S.R._4047.csproj",
+  "projectFilePath": "C:\\Users\\sahan\\Desktop\\induvidual\\EG_2020_4047\\Lelwala_L.G.S.R._4047\\Lelwala_L.G.S.R._4047.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
-    "C:\\Users\\Admin\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512"
+    "C:\\Users\\sahan\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
+    "C:\\Users\\sahan\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\sahan\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
+    "C:\\Users\\sahan\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512"
   ],
   "logs": [
     {
